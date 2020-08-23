@@ -1,8 +1,8 @@
 # Lwrap
-<img src="https://github.com/OpenGamerTips/Lwrap/raw/master/icon.png" alt="Lwrap Icon"></img>
+<img src="https://github.com/OpenGamerTips/Lwrap/raw/master/icon.png" alt="Lwrap Icon"></img><br>
 Lwrap is a Lua API Wrapper written in vanilla Lua 5.1.5.<br>
 Lua C executors parse the text in a script and use the API to do what has been parsed. Because the script is being parsed we can parse in the same way to execute Lua C scripts.
-[Click here to view my Lua C VM source](https://raw.githubusercontent.com/OpenGamerTips/Lwrap/master/src/lua_c_vm.lua).
+[Click here to view my Lua C VM source](https://raw.githubusercontent.com/OpenGamerTips/Lwrap/master/src/lua_c_vm.lua).<br><br>Here's a demo of the Lua C VM:<br>[![Run on Repl.it](https://repl.it/badge/github/OpenGamerTips/luacvm)](https://luacvm-4.nicholash777.repl.run)
 
 # Usage
 You can use this for practicing Lua C, or if you just want to add this to your exploit i'm totally fine with that. This could be extremely useful for old scripts that were written when only Lua C executors existed.
