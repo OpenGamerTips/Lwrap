@@ -5,7 +5,6 @@ getfield -1 Character
 getfield -1 Humanoid
 pushnumber 3.5
 setfield -2 HipHeight
-pcall 1 0 0
 settop 0
 getglobal game
 getfield -1 Players
@@ -32,7 +31,6 @@ getfield -1 Character
 getfield -1 Right Leg
 pushnumber 1
 setfield -2 Transparency
-pcall 1 0 0
 settop 0
 getglobal game
 getfield -1 Players
@@ -41,7 +39,6 @@ getfield -1 Character
 getfield -1 Left Leg
 pushnumber 1
 setfield -2 Transparency
-pcall 1 0 0
 settop 0
 getglobal game
 getfield -1 Players
@@ -50,7 +47,6 @@ getfield -1 Character
 getfield -1 Head
 pushnumber 1
 setfield -2 Transparency
-pcall 1 0 0
 settop 0
 getglobal game
 getfield -1 Players
@@ -60,7 +56,6 @@ getfield -1 Head
 getfield -1 face
 pushnumber 1
 setfield -2 Transparency
-pcall 1 0 0
 settop 0
 getglobal game
 getfield -1 Players
@@ -96,7 +91,6 @@ getfield -1 Torso
 getfield -1 Mesh
 pushstring rbxassetid://438530093
 setfield -2 MeshId
-pcall 1 0 0
 settop 0
 getglobal game
 getfield -1 Players
@@ -106,7 +100,6 @@ getfield -1 Torso
 getfield -1 Mesh
 pushstring rbxassetid://438530120
 setfield -2 TextureId
-pcall 1 0 0
 settop 0
 getglobal game
 getfield -1 Lighting
