@@ -3,7 +3,7 @@ local _, Err = pcall(function()
     LuaAPI = require("main")
 end)
 if Err then
-    LuaAPI = loadstring(game:HttpGet("https://www.google.com"))()
+    LuaAPI = loadstring(game:HttpGet("https://raw.githubusercontent.com/OpenGamerTips/Lwrap/master/src/main.lua"))()
 end
 
 function _luaC_execline(L, Line) -- Lua C Parser
